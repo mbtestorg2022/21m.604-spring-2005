@@ -1,0 +1,19 @@
+---
+content_type: page
+title: Readings
+uid: a12eb51c-c5bc-055b-3b2c-4b67bfd8fec1
+---
+
+| WeEK # | TOPICS | READINGS |
+| --- | --- | --- |
+| 1 | Playwrights are Storytellers | Ives, David. "Sure Thing." In _All in the Timing: Fourteen Plays_. New York, NY: Vintage Books, 1994. ISBN: 9780679759287. |
+| 2 | The Power of the Unspoken Word ([PDF 1]({{< baseurl >}}/resources/handout_wk2)) ([PDF 2]({{< baseurl >}}/resources/objects_wk2)) |  {{< br >}}{{< br >}} Alford, Henry. "Shouts and Murmers: Unspoken O'Neill." _The New Yorker_, December 1998, 68-69. {{< br >}}{{< br >}}   {{< br >}}Raffo, Heather. "Iraq Through the Eyes of its Women." _American Theatre_, April 2005, 20-22 and 70-71.  {{< br >}}  {{< br >}}Epstein, Leslie. _The Yellow Bus_. In _Boston Theatre Marathon of Ten-Minute Plays,_ Volume 1. Quincy, MA: Baker's Plays, 2000.  ISBN: 087440-134-8 {{< br >}}{{< br >}}  |
+| 3 | Actions Speak Louder than Words ([PDF]({{< baseurl >}}/resources/handout_wk3)) | Hartigan, Patti. "One Man. Ten Plays. 100 Years." _Boston Globe Magazine_, April 3, 2005, 33-35 and 47-50.  {{< br >}}  {{< br >}}Rivera, Jose. "36 Assumptions about Writing Plays." _American Theatre_, February 2003.  {{< br >}}  {{< br >}}———. "The Winged Man." from _Plays for Actresses_. Edited by Eric Lane and Nina Shengold. New York, NY: Vintage Books, 1997. ISBN: 9780679772811. |
+| 4 | The Challenge of Exposition and How to Create High- and Low-Context Dialogue ([PDF 1]({{< baseurl >}}/resources/context_wk4)) ([PDF 2]({{< baseurl >}}/resources/setting_wk4)) | Albee, Edward. _Who's Afraid of Virginia Woolf?_ New York, NY: Pocket Books, 1970. ISNB: 0451158717.  {{< br >}}  {{< br >}}MacFarquhar, Larissa. "Passion Plays: The making of Edward Albee." _The New Yorker_, April 4, 2005, 68-77. |
+| 5 | Disrupted Ritual | Schisgal, Murray. "Confessions: A Playwright Confesses."   _The Dramatist,_ Spring 2006, 30-33.  {{< br >}}  {{< br >}}Marguilies, Donald. "Last Tuesday." _American Theatre_. July-August 2003, 42-46.  {{< br >}}  {{< br >}}Lahr, John. "After Angels: Tony Kushner's Promethean Itch." _The New Yorker_, January 3, 2005, 42-52. |
+| 6 | Thinking about Plot ([PDF]({{< baseurl >}}/resources/handout_wk6)) | Witchel, Alex. "The Confessions of John Patrick Shanley." _The New York Times Magazine_, November 7, 2004, 31-35.  {{< br >}}  {{< br >}}Rudnick, Paul. "Paul Rudnick's Random Rules for Comedy." _The Dramatist,_ Spring 2006, 6-7.  {{< br >}}  {{< br >}}Ives, David. "Why I Shouldn't Write Plays." _New York Times_, August 24, 1997.  {{< br >}}  {{< br >}}Wright, Nicholas. _Vincent in Brixton_. London, UK: Nick Hern Books, 2002. ISBN: 9780573629563. |
+| 7 | Thinking about Sound | Wren, Celia. "Saints, Sin, and Erik Ehn." _American Theatre_, May-June 2004, 19-22 and 65.  {{< br >}}  {{< br >}}Walker, George F. "Introduction and Beyond Mozambique." In _Shared Anxiety: Selected Plays_. Toronto, Canada: Coach House Press, 2002, preface. ISBN: 9780889104723. |
+| 8 | Dialogue is Action | Mamet, David. _Glengarry Glen Ross_. New York, NY: Grove Press, 1994. ISBN: 9780802130914.  {{< br >}}  {{< br >}}Croyden, Margaret. "The African Connection." _American Theatre_, April 2005, 30-32 and 73. |
+| 9 | Composition: Adding Elements ([PDF 1]({{< baseurl >}}/resources/handout_wk9)) ([PDF 2]({{< baseurl >}}/resources/in_class_wk9)) | Shewey, Don. "Cowboy Mouth." _American Theatre_, April 2004, 21-25 and 82-84.  {{< br >}}  {{< br >}}Ives, David. "Words, Words, Words." In _All in the Timing: Fourteen Plays_. New York, NY: Vintage Books, 1994, pp. 22-30. ISBN: 9780679759287. |
+| 10 | Obstacle + Action = Great Theater ([PDF]({{< baseurl >}}/resources/handout_wk10)) | Foreman, Ridchard. "The Gods Are Pounding My Head! (AKA Lumberjack Messiah)." _American Theatre_, April 2005, 35-45. |
+| 11-12 | Reading and Workshopping Final Projects |
